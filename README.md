@@ -6,7 +6,7 @@ About me:
 
 👨‍🎓 Software Engineering by UnB.
 
-🎯 Interesteded in: Front-End Development, Back-End Development (Node.js , Express.js) and Gaming Development (Unreal Engine, C++)
+🎯 Interested in: Front-End Development, Back-End Development (Node.js , Express.js) and Gaming Development (Unreal Engine, C++)
 
 
 ## Status
@@ -29,8 +29,8 @@ About me:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Platforms
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com) 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)] (https://www.beecrowd.com.br/judge/en/login)
 
 ## OS 💻📱
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)

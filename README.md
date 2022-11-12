@@ -2,7 +2,7 @@
 
 About me:
 
-:desktop_computer: I work as System Analyst and I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. In long term, I pretend to be working on a disruptive technology involved with gaming development in order to make the world a better place
+💻 I work as System Analyst and I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. In long term, I pretend to be working on a disruptive technology involved with gaming development in order to make the world a better place
 
 👨‍🎓 Software Engineering by UnB.
 
@@ -24,11 +24,11 @@ About me:
 
 ## Coding Challenges
 
-### Technologies
+- Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Platforms
+- Platforms
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com) 
 [![BeeCrowd](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.beecrowd.com.br/judge/en/login)
 

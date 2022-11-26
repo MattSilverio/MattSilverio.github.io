@@ -2,9 +2,9 @@
 
 About me:
 
-💻 I work as System Analyst and I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. In long term, I pretend to be working on a disruptive technology involved with gaming development in order to make the world a better place
+💻 I work as Front End Developer (React.js with Sharepoint Framework), also I earn a research scholarship working with full-stack development and AI studies to apply on features that are implemented directly on the websites of several Brazilian judicial bodies, you can check the veracity ![here](https://ailab.unb.br/#home). I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. In long term, I pretend to be working on a disruptive technology involved with gaming development in order to make the world a better place
 
-👨‍🎓 Software Engineering by UnB.
+👨‍🎓 Software Engineering and Information Security (UnB and IESB)
 
 🎯 Interested in: Front-End Development, Back-End Development (Node.js , Express.js) and Gaming Development (Unreal Engine, C++)
 
@@ -21,11 +21,12 @@ About me:
 ![image](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Coding Challenges
 
 - Technologies
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - Platforms
@@ -37,6 +38,7 @@ About me:
 
 ## Gaming 🎮
 ![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) ... Meet me there - JetMattBrazil
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ... Meet me there - MrEngineerElektro
 
 ## Contact 📱
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MattSilverio) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusphillipo/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt_fis/)

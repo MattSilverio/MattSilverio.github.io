@@ -2,7 +2,7 @@
 
 About me:
 
-💻 I work as Front End Developer (React.js with Sharepoint Framework), also I earn a research scholarship working with full-stack development and AI studies to apply on features that are implemented directly on the websites of several Brazilian judicial bodies, you can check the veracity ![here](https://ailab.unb.br/#home). I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. In long term, I pretend to be working on a disruptive technology involved with gaming development in order to make the world a better place
+💻 I work as Front End Developer (React.js with Sharepoint Framework), also I earn a research scholarship working with full-stack development and AI studies to apply on features that are implemented directly on the websites of several Brazilian judicial bodies, you can check the veracity [here](https://ailab.unb.br/#home). I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. In long term, I pretend to be working on a disruptive technology involved with gaming development in order to make the world a better place
 
 👨‍🎓 Software Engineering and Information Security (UnB and IESB)
 

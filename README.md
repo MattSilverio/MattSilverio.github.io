@@ -2,11 +2,11 @@
 
 About me:
 
-💻 I work as Front End Developer (React.js with Sharepoint Framework), also I earn a research scholarship working with full-stack development and AI studies to apply on features that are implemented directly on the websites of several Brazilian judicial bodies, you can check the veracity [here](https://ailab.unb.br/#home). I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. In long term, I pretend to be working on a disruptive technology involved with gaming development in order to make the world a better place
+💻 I work with full-stack development and AI studies as a research fellow at the University of Brasília to apply in features that are implemented directly on the websites of various Brazilian judiciary bodies, you can check the veracity [here](https://ailab. unb.br/#home) . I consider myself a truly code-curious person. I love spending a few hours training my skills on sites like Codeforces and BeeCrowd. In the long term, I intend to be working on a disruptive technology involved with game development to make the world a better place.
 
-👨‍🎓 Software Engineering and Information Security (UnB and IESB)
+👨‍🎓 Software Engineering  (UnB)
 
-🎯 Interested in: Front-End Development, Back-End Development (Node.js , Express.js) and Gaming Development (Unreal Engine, C++)
+🎯 Interested in: Full-Stack Development with Javascript Stack and Gaming Development (Unreal Engine, C++)
 
 
 ## Status
@@ -20,24 +20,14 @@ About me:
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![image](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-## Coding Challenges
-
-- Technologies
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-- Platforms
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com) 
-[![BeeCrowd](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.beecrowd.com.br/judge/en/login)
 
 ## OS 💻📱
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Gaming 🎮
 ![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) ... Meet me there - JetMattBrazil
+
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ... Meet me there - MrEngineerElektro
 
 ## Contact 📱
